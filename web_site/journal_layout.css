@@ -1,0 +1,44 @@
+body {
+    background-image: url('./images/back.png');
+    background-size: 50px 50px;
+    padding: 0 10% 0 10%;
+}
+
+.container {
+    background-color: white;
+    border: solid;
+    border-color: white;
+    border-width: 10px;
+    background-image: ('./images/');
+}
+
+.header {
+    background-color: #A8F0F0;
+    text-align: right;
+    padding: 5px;
+    
+}
+
+
+.section {
+    overflow: auto;
+    padding: 5px;
+    background-color: #E8FBFB;
+    margin: 10px 0 0 0;
+    border: solid;
+    border-color: #C2E9E9;
+    border-width: 4px;
+}
+
+.section img {
+    float: right;
+}
+
+.section .date {
+    border: dashed;
+    border-top: 0;
+    border-right: 0;
+    border-left: 0;
+    border-width: 2px;
+    border-color: #009097;
+}
